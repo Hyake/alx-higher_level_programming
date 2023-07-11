@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Hansel Fidel Ndemange
+# Francis Shoke Ngosianga
 """"
     Defines a function that returns the JSON representationof an object
 """
