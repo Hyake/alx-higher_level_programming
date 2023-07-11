@@ -1,5 +1,5 @@
 #!/usr/bin/python3i
-# Hansel Fidel Ndemange
+# Francis Shoke Ngosianga
 """"
     Defines a function that returns an object(python data struct)
     represented by a JSON string.
