@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Hansel Fidel Ndemange
+# Francis Shoke Ngosianga
 """Defines a Pascal's Triangle function."""
 
 
