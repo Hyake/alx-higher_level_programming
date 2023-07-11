@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Hansel Fidel Ndemange
+# Francis Shoke Ngosianga
 """ Defines a funtion that writes an Object to a text file,
     using a JSON representation.
 """
