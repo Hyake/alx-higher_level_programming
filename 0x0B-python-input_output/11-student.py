@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Sangwani P Zyambo
+# Francis Shoke Ngosianga
 """Defines a class Student."""
 
 
