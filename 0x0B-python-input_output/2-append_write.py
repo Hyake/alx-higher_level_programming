@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Hansel Fidel Ndemange
+# Francis Shoke Ngosianga
 
 """ Defines a function that append a string at
     the end of a text file(UTF8).
