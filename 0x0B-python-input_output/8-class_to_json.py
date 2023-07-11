@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Hansel Fidel Ndemange
+# Francis Shoke Ngosianga
 
 """defines a function that returns the dictionary
     description
