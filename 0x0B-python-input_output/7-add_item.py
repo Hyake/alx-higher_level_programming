@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Hansel Fidel Ndemange
+# Francis Shoke Ngosianga
 """Add all arguments to a Python list and save them to a file."""
 import sys
 
