@@ -1,10 +1,7 @@
 #!/usr/bin/node
-
-const number = parseInt(process.argv[2]);
-
-if (process.argv.length < 3 || isNaN(number)) {
+//My number: <first argument converted in integer> if the first argument can be converted to an integer:
+if (isNaN(process.argv[2]) || process.argv[2] === undefined) {
   console.log('Not a number');
 } else {
-  console.log('My number: '.concat(number));
+  console.log('My number:', parseInt(process.argv[2]));
 }
-

@@ -1,9 +1,6 @@
 #!/usr/bin/node
-
-const langArray = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
-let a = 0;
-while (a < langArray.length) {
-  console.log(langArray[a]);
-  a++;
+//prints 3 language script using strings and loops
+const arrS = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
+for (let i = 0; i < arrS.length; i++) {
+  console.log(arrS[i]);
 }
-
